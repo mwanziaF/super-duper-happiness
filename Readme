@@ -1,0 +1,80 @@
+# 🌐 Faith Mukeli - Personal Portfolio Website
+
+Welcome to my personal portfolio! This website is part of the **July 2025 PLP Academy Hackathon Portfolio Challenge**. It showcases who I am, what I do, and how to reach me.
+
+---
+
+## 🧑‍💻 About Me
+
+Hi there! 👋  
+I'm **Faith Mukeli**, a passionate **Geospatial Information Scientist** and aspiring **Web Developer** with a strong interest in using data, maps, and code to solve real-world problems. I'm driven by a desire to make technology accessible and impactful in both rural and urban settings.
+
+---
+
+## 🖥️ Programming Languages
+
+Here are the programming languages I'm currently learning and using:
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+
+---
+
+## 🎓 Educational Background
+
+**Bachelor of Science in Geospatial Information Science**  
+Masinde Muliro University of Science and Technology (Kenya)
+
+📄 [Download My CV](cv.pdf)
+
+---
+
+## 💡 Interests
+
+- 🌍 Web Development
+- 📊 Data Analytics
+- 📱 Mobile App Design
+- 🗺️ GIS & Mapping Technologies
+- 🚀 Tech for Social Impact
+
+---
+
+## 🚧 Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| **Healthcare Accessibility Map** | A GIS-based app showing distance-based access to healthcare facilities in Matungu Subcounty. |
+| **BlinkIT Grocery Sales Dashboard** | An Excel-based analytics tool showing trends, profits, and category performance in a grocery chain. |
+| **Front Belt Prototype** | A location-based web app concept connecting users to essential services in real time. |
+
+---
+
+## 📬 Contact Me
+
+Interested in collaborating or learning more?  
+📧 Email: [faithmukeli30@gmail.com.com](faithmukeli30@gmail.com.com)  
+📍 Location: Kenya  
+
+The website includes a contact form you can use to reach me directly.
+
+---
+
+## 🌐 Live Demo
+
+You can view the live portfolio site here:  
+👉 [https://your-username.github.io/faith-portfolio](https://MwanziaF.github.io/faith-portfolio)
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+faith-portfolio/
+│
+├── index.html       # Main HTML file
+├── style.css        # Styling file
+├── cv.pdf           # Downloadable CV
+└── README.md        # This file
